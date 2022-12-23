@@ -1,3 +1,13 @@
+# 内容
+本リポジトリは以下のレポジトリを日本語対応させたものです。
+
+https://gitlab.com/phoneybadger/pokemon-colorscripts
+
+しっかりテストはしていないので本家に`pull request`はまだ送る予定はないです。
+
+
+以下本家の`README.md`の内容です。
+
 # Pokemon colorscripts
 
 A script to print out images of pokemon to the terminal. Inspired by
